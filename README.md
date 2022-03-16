@@ -1,1 +1,1 @@
-https://maksdubina.github.io/rsschool-cv/cv
+https://maksdubina.github.io/rsschool-cv/
