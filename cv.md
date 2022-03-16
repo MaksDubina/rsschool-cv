@@ -1,21 +1,22 @@
 # Maksim Dubina
 
-## Contaks
+## Contaks:
 
 - *Location:* Novosibirks, Russia
 - *Discord:* Glower #8711
 - *Phone:* +7-953-762-48-40
 - *Email:* mgd8832@gmail.com
 - *GitHub:* [MaksDubina](https://github.com/MaksDubina)
-## About Me
+## About Me:
+    I don't know what to write here, but I can say that I get along well with the people I work with. I am a fast learner and have a great interest in web development.
 
-## Skills
+## Skills:
 - *HTML*
 - *CSS*
 - *JavaScript*
 - *Python*
 
-## Code Example
+## Code Example:
 **Silicon Valley:** Artificial intelligence Anton, created by Gilfoyle, has hacked a network of smart refrigerators. Now he's using them as servers for the "Pied Piper". Help the owner of the company find all the infected refrigerators.
 
 For each refrigerator there is a line with data consisting of lowercase letters and numbers, and if it contains the word "anton" (not necessarily adjacent letters, the main thing is the presence of a sequence of letters), then the refrigerator is infected and you need to display the number of the refrigerator, numbering starts from one
@@ -39,7 +40,8 @@ for i in range(len(list1)):
         total.append(i+1)
 print(*total)
 ```
+## Education:
+- Study in Novosibirsk State Technical University (NSTU)
+- Сompleted courses "pokoleniye python" basic and advanced level
 
-## Experience
-
-## Education
+## English: A2 
