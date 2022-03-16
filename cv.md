@@ -8,7 +8,7 @@
 - *Email:* mgd8832@gmail.com
 - *GitHub:* [MaksDubina](https://github.com/MaksDubina)
 ## About Me:
-    I don't know what to write here, but I can say that I get along well with the people I work with. I am a fast learner and have a great interest in web development.
+    I can say that I get along well with the people I work with. I am a fast learner and have a great interest in web development.
 
 ## Skills:
 - *HTML*
